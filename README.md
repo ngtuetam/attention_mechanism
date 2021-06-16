@@ -1,2 +1,5 @@
 # attention_mecharism
-Understanding and Applying Attention Mechanism
+Applying Attention Mechanism
+
+Reference:
+[Understanding Attention Mechanism](https://pbcquoc.github.io/attention/)
